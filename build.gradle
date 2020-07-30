@@ -6,10 +6,6 @@ android {
     defaultConfig {
         minSdkVersion 8
         targetSdkVersion 8
-
-        ndk {
-            moduleName "andengine_shared"
-        }
     }
 
     sourceSets {
